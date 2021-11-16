@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gerico Francisco some@gmail.com gekiro
 
 # THANKS
 
