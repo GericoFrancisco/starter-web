@@ -6,3 +6,5 @@ hey
 ## Purpose
 
 Sample website with plenty of files for demos
+
+2020 git.training
