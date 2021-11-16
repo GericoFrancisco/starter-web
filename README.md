@@ -7,4 +7,6 @@ hey
 
 Sample website with plenty of files for demos
 
+added some txt
+
 2020 git.training
